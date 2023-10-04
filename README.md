@@ -1,6 +1,6 @@
 # Aplicação de cadastro de usuários - Sistemas de Informação 2023
 
-Esse sistema foi desenvolvido em sala de aula como exemplo e NÃO conta com as melhores práticas de desenvolvimento. Ele apenas funciona (quase tudo...).
+Esse sistema foi desenvolvido em sala de aula como exemplo e **NÃO** conta com as melhores práticas de desenvolvimento. Ele apenas funciona (bem, quase tudo funciona).
 
 ---
 
@@ -20,4 +20,4 @@ A forma mais fácil de ter todos esses softwares disponíveis seria usando uma i
 
 Com o XAMPP instalado, os arquivos desse repositório devem estar na pasta `htdocs` do XAMPP. Para encontrar essa pasta, basta abrir o Painel de Controle do XAMPP, clicar no botão `📁 Explorer` e buscar a pasta `htdocs`. Ao colocar estes arquivos, alguns arquivos já presentes na pasta devem ser substituídos.
 
-Feito isso, basta abrir um navegador e acessar a página `instalar.php`. Seguindo a instalação padrão do XAMPP, essa página deverá ser encontrada em `[localhost/instalar.php](http://localhost/instalar.php)`. Esta página irá inicializar o banco de dados, chamado de `app_teste`. Após isto, a aplicação deverá poder ser acessada normalmente atrvés do `[localhost](http://localhost/)`.
+Feito isso, basta abrir um navegador e acessar a página `instalar.php`. Seguindo a instalação padrão do XAMPP, essa página deverá ser encontrada em [`localhost/instalar.php`](http://localhost/instalar.php). Esta página irá inicializar o banco de dados, chamado de `app_teste`. Após isto, a aplicação deverá poder ser acessada normalmente atrvés do [`localhost`](http://localhost/).
